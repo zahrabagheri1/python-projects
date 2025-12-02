@@ -1,0 +1,40 @@
+{
+  "Drink Water": {
+    "done": false,
+    "streak": 1,
+    "last_done": "2025-12-02"
+  },
+  "Read 20 minutes": {
+    "done": false,
+    "streak": 1,
+    "last_done": "2025-12-02"
+  },
+  "Exercise 10 minutes": {
+    "done": false,
+    "streak": 1,
+    "last_done": "2025-12-02"
+  },
+  "Meditate": {
+    "done": false,
+    "streak": 1,
+    "last_done": "2025-12-02"
+  },
+  "Journal": {
+    "done": false,
+    "streak": 1,
+    "last_done": "2025-12-02"
+  },
+  "Sleep Early": {
+    "done": false,
+    "streak": 1,
+    "last_done": "2025-12-02"
+  },
+  "Plan the day": {
+    "done": false,
+    "streak": 1,
+    "last_done": "2025-12-02"
+  },
+  "_meta": {
+    "last_reset": "2025-12-02"
+  }
+}

@@ -18,7 +18,6 @@ DEFAULT_HABITS = [
     "Meditate",
     "Journal",
     "Sleep Early",
-    "Plan the day",
     "Coding practice"
 ]
 
